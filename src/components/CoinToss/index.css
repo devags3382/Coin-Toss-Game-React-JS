@@ -8,7 +8,6 @@
 
 .coin-toss-container {
   background-color: #ffffff;
-  display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 16px;
